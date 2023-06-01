@@ -1,8 +1,6 @@
-### Hi there 👋
+hola 
 
-**somavillajaine/somavillajaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**somavillajaine/somavillajaine** 
 - 🔭 ATUALMENTE SOU ESTUDAN
--  - 💬 Pronouns: ...ELA\ELE
-- ⚡ curiosidades sobre mim : gosto de Psicologia e Pericia 
+-  - 💬 Pronouns: ...ELA\ELE 
+-Curiosidades  sobre mim: gosto de Psicologia e Pericia Criminal
