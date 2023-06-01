@@ -1,7 +1,7 @@
 hola 
 
 **somavillajaine/somavillajaine** 
-- 🔭 ATUALMENTE SOU ESTUDAN
+- 🔭 atualmente sou estudante
 -  - 💬 Pronouns: ...ELA\ELE 
 -Curiosidades  sobre mim: gosto de Psicologia e Pericia Criminal
 
